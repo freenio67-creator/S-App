@@ -1,0 +1,5 @@
+{
+  "name": "StudyComm AI",
+  "description": "A comprehensive study community platform featuring an AI tutor, a live code playground for HTML/CSS/JS, and a data-driven admin dashboard for community management.",
+  "requestFramePermissions": []
+}
